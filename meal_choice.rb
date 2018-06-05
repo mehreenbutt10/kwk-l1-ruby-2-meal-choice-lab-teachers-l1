@@ -22,7 +22,7 @@ puts snacks("Swedish fish")
 
 # call your methods here
 puts breakfast("pancakes")
-puts lunch("soup")
+puts lunch("peanut butter")
 puts dinner("grilled salmon")
 
 # Call your methods without any arguments here
