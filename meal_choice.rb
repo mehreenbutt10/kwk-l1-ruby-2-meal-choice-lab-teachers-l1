@@ -12,7 +12,7 @@ def lunch(food="grilled cheese")
   "Lunch is the best time for #{food}!"
 end
 
-def dinner(food="broccoli")
+def dinner(food="Salmon")
   "Dinner is the best time for #{food}!"
 end 
 
